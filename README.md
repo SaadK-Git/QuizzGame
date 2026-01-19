@@ -38,8 +38,10 @@ Main Page:
 <img width="965" height="487" alt="image" src="https://github.com/user-attachments/assets/af000177-18ba-4907-a23b-31e4b977b4e7" />
 
 Questions Page:
+
 <img width="685" height="506" alt="image" src="https://github.com/user-attachments/assets/44a409d8-6531-4147-8689-b2417c31b048" />
 
 Result Page:
+
 <img width="610" height="324" alt="image" src="https://github.com/user-attachments/assets/74319dd6-0176-4495-8559-ae81e04c29c8" />
 
